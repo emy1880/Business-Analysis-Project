@@ -11,7 +11,7 @@ Below is the Entity Relationship (ER) Diagram Model of Umax-eshop ecommerce data
 ![image](https://user-images.githubusercontent.com/102745680/211790796-f2064a57-6b11-4016-80ee-801618f4e52e.png)
 
  
-##Understanding the Business Concept: TRAFFIC SOURCE ANALYSIS
+## Understanding the Business Concept: TRAFFIC SOURCE ANALYSIS
 This is all about understanding where your customers are coming from and which channels are bringing in the highest volume of traffic.
 The common case use of the traffic source analysis are:
 -	Identifying opportunities to reduce waste or increase high-converting traffic
