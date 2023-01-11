@@ -120,7 +120,7 @@ Let's look at the entire session-to-order conversion rate trends for those same 
 From the ongoing analysis, the brand utm campaign has the overall conversion rate. 
 Let's show the entire session and order volume trended yearly during the life of the business.
  
-Here are the final project findings and recommendations:
+### Here are the final project findings and recommendations:
 1.	According to the device-level analysis of conversion rates, desktop was performing well. It is then proposed that nonbrand gsearch campaigns be bid on desktop.
 2.	According to the website performance analysis, the homepage, products page, and Mr. Fuzzy page appear to receive the majority of website traffic. It is rather obvious where the Website Manager should focus any improvements.
 3.	The product sales analysis revealed that 'The Original Mr. Fuzzy' is doing extremely well in the advertising campaign. It is consequently recommended that this product be given more attention in terms of upgrades in order to drive more sales. 
