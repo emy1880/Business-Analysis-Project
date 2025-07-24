@@ -4,7 +4,7 @@ As a part of the start-up team, I will support the CEO, Head of Marketing, and W
 ## Project Objective
 My primary responsibilities include analysing and optimizing marketing channels, measuring and testing website conversion performance, and analysing data to determine the impact of new product launches.
 ## Project Execution
-I'm going to use MYSQL to analyse landing page performance and conversion, as well as product-level sales. The SQL solution codes have been attacked to this repository as [https://github.com/emy1880/Business-Analysis-Project/blob/main/sql_query_solution.sql]).
+I'm going to use MYSQL to analyse landing page performance and conversion, as well as product-level sales. The SQL solution codes have been attacked to this repository
 Below is the Entity Relationship (ER) Diagram Model of Umax-eshop ecommerce database
 
 
